@@ -1,0 +1,21 @@
+
+body{
+    display: block;
+    position: relative;
+}
+#name{
+    display: block;
+}
+
+img { 
+    width: 100px; 
+    height: 100px; 
+    text-align: center;
+    object-fit: contain; 
+} 
+.cntry-name-currency{
+    display: flex;
+    position: sticky;
+    justify-content:space-evenly;
+}
+
